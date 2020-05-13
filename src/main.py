@@ -73,6 +73,6 @@ while True:
         
     bi.proc()
     bp.proc()
-    print(time-last)
+    # print(time-last)
     l = nl
 
